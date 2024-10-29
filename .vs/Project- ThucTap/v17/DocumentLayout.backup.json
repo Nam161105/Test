@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\backup\\Project- ThucTap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\playermove\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\playermove\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\playermove\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\playermove\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|e:\\unity\\backup\\project- thuctap\\assets\\00 scripts\\movematerial\\groundmove\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\movematerial\\groundmove\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\groundcontroll\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\groundcontroll\\groundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\playermove\\loadgameoverrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\playermove\\loadgameoverrestart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\movematerial\\spikemove\\spikemove3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\movematerial\\spikemove\\spikemove3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\spikecontroll\\spikecontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\spikecontroll\\spikecontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\ui\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\ui\\nextlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\groundcontroll\\groundcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\groundcontroll\\groundcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\groundcontroll\\groundcontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\groundcontroll\\groundcontroller3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\spikecontroll\\spikecontroll2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\spikecontroll\\spikecontroll2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\controller\\spikecontroll\\spikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\controller\\spikecontroll\\spikecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\movematerial\\spikemove\\spikemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\movematerial\\spikemove\\spikemove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\movematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\movematerial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\movematerial\\groundmove\\groundmove2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\movematerial\\groundmove\\groundmove2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\movematerial\\spikemove\\spikemovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\movematerial\\spikemove\\spikemovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\movematerial\\groundmove\\groundmove3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\movematerial\\groundmove\\groundmove3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Unity\\backup\\Project- ThucTap\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|E:\\Unity\\backup\\Project- ThucTap\\assets\\00 scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49E792F5-77C4-FE60-0EDC-B91D4B82AAFE}|Assembly-CSharp.csproj|solutionrelative:assets\\00 scripts\\ui\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\AnimationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\Move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\AudioManger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\GroundController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\AnimationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\PauseMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMovement2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\AnimationController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\Ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\Move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\GameOver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpikeControll2.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeControll2.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeControll2.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeControll2.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeControll2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:34:27.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroundController3.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController3.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController3.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController3.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:31:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GroundMove3.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove3.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove3.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove3.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:31:36.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\PlayerMove\\Move.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\PlayerMove\\Move.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\PlayerMove\\Move.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\PlayerMove\\Move.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:31:23.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroundController.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:28:16.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ground.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\Ground.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\Ground.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\Ground.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\Ground.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:30:23.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\PlayerMove\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\PlayerMove\\AnimationController.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\PlayerMove\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\PlayerMove\\AnimationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T07:32:40.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadGameOverRestart.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\PlayerMove\\LoadGameOverRestart.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\PlayerMove\\LoadGameOverRestart.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\PlayerMove\\LoadGameOverRestart.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\PlayerMove\\LoadGameOverRestart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:18:50.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SpikeMovement2.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMovement2.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMovement2.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMovement2.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMovement2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:34:37.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\UI\\PauseMenu.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\UI\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:21:35.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoveMaterial.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\MoveMaterial.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\MoveMaterial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:28:01.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SpikeMove.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:28:11.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpikeController.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T03:29:01.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpikeMove3.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove3.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove3.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove3.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove\\SpikeMove3.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:41:59.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GroundController2.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController2.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController2.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController2.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:30:38.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GroundMove2.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove2.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove2.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove2.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove\\GroundMove2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:30:29.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpikeController3.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController3.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController3.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController3.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\Controller\\SpikeControll\\SpikeController3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:27:50.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GroundController4.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController4.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController4.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundControll\\GroundController4.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:23:30.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventSystem.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Runtime\\EventSystem\\EventSystem.cs",
+              "ViewState": "AQIAAP4BAAAAAAAAAAAqwB4CAACrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:48:35.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\PauseMenu.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\PauseMenu.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\PauseMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:14:04.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GroundMove4.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove4.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove4.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove4.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T08:42:50.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SpikeMovement2.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMovement2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMovement2.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMovement2.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMovement2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:19:57.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SpikeMove.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\SpikeMove.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:19:54.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "GroundMove3.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove3.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove3.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:19:51.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GroundMove2.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove2.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove2.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\GroundMove2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:19:15.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\UI\\MainMenu.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\UI\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:14:03.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\GameOver.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\GameOver.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\GameOver.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\GameOver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:57:05.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NextLevel.cs",
+              "DocumentMoniker": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\NextLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\00 SCRIPTS\\UI\\NextLevel.cs",
+              "ToolTip": "E:\\Unity\\backup\\Project- ThucTap\\Assets\\00 SCRIPTS\\UI\\NextLevel.cs",
+              "RelativeToolTip": "Assets\\00 SCRIPTS\\UI\\NextLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:41:50.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GroundController.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundController.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundController.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\GroundController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:41:35.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\AnimationController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\AnimationController.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\AnimationController.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\AnimationController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:41:30.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Ground.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\Ground.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\Ground.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\Ground.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\MoveMaterial\\Ground.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:41:21.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Move.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\Move.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\Move.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\Move.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Controller\\Move.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:22:41.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AudioManger.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\AudioManger.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\AudioManger.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\AudioManger.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\AudioManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T05:40:12.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\MainMenu.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\MainMenu.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:38:32.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GroundController.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\GroundController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\GroundController.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\GroundController.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\GroundController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:28:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\AnimationController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\AnimationController.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\AnimationController.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\AnimationController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:09:09.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\PlayerController.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T05:15:10.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Ground.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Ground.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Ground.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Ground.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Ground.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T04:54:31.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Move.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Move.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Move.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Move.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\00 SCRIPTS\\Move.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T02:54:08.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\AnimationController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\AnimationController.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\AnimationController.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\AnimationController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:28:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Move.cs",
+              "DocumentMoniker": "E:\\Game\\Project- ThucTap\\Assets\\Move.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\Move.cs",
+              "ToolTip": "E:\\Game\\Project- ThucTap\\Assets\\Move.cs",
+              "RelativeToolTip": "..\\..\\..\\Game\\Project- ThucTap\\Assets\\Move.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:55:37.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
