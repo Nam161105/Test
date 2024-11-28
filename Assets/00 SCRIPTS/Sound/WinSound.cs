@@ -4,18 +4,15 @@ using UnityEngine;
 
 public class WinSound : MonoBehaviour
 {
-    public AudioManger _am;
+    protected bool _isPlay = false;
 
-    private void Awake()
-    {
-        _am = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManger>();    
-    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Player"))
+        if (collision.CompareTag("Player") && !_isPlay)
         {
-            _am.PlaySFX(_am.winClip);
+            AudioManger.Instance.PlaySFX(AudioManger.Instance.winClip);
+            _isPlay = true;
         }
     }
 }

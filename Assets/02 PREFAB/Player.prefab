@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5000564253565893623}
   m_Layer: 0
   m_Name: Avatar
-  m_TagString: Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -132,7 +132,6 @@ GameObject:
   - component: {fileID: 2622102729384608771}
   - component: {fileID: 9099934188599323654}
   - component: {fileID: 7969723811147335960}
-  - component: {fileID: -7514240122417762953}
   - component: {fileID: 6524478454694013562}
   m_Layer: 0
   m_Name: Player
@@ -172,7 +171,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 3
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -260,24 +259,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _groundMovement:
   - {fileID: 0}
---- !u!114 &-7514240122417762953
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5922054546436042123}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2dfd7986c9f32c340937a4b81ea0e232, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _speed: 0
-  _force: 0
-  _isGround: 0
-  _playerState: 0
-  _ani: {fileID: 0}
-  _am: {fileID: 0}
 --- !u!114 &6524478454694013562
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -294,5 +275,5 @@ MonoBehaviour:
   _force: 0
   _isGround: 0
   _playerState: 0
-  _ani: {fileID: 0}
-  menuGameOver: {fileID: 0}
+  _ani: {fileID: 1766448019401072279}
+  menuGameOver: {fileID: 3151572822953464923, guid: 42188e70009765f4280b473f94c36183, type: 3}

@@ -7,12 +7,11 @@ public class Move : MonoBehaviour
     protected Rigidbody2D _rb;
     [SerializeField] protected float _speed, _force;
     [SerializeField] protected bool _isGround;
-    [SerializeField] PlayerState _playerState = PlayerState.Idle;
+    [SerializeField] protected PlayerState _playerState = PlayerState.Idle;
     [SerializeField] protected AnimationController _ani;
-
     void Start()
     {
-        _rb = GetComponent<Rigidbody2D>();
+        _rb = GetComponent<Rigidbody2D>();  
     }
 
 
@@ -35,6 +34,7 @@ public class Move : MonoBehaviour
         _rb.velocity = move;
         if (Input.GetKeyDown(KeyCode.Space) && _isGround)
         {
+            AudioManger.Instance.PlaySFX(AudioManger.Instance.jumpClip);
             _rb.AddForce(new Vector2(0, _force), ForceMode2D.Impulse);
             _isGround = false;
         }
@@ -68,8 +68,9 @@ public class Move : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("Spike"))
         {
+            AudioManger.Instance.PlaySFX(AudioManger.Instance.dieClip);
             _playerState = PlayerState.Die;
-            _rb.velocity = Vector2.zero;
+            _rb.velocity = Vector3.zero;
         }
     }
 

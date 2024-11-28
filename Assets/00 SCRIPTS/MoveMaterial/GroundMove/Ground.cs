@@ -7,6 +7,7 @@ public class GroundMovement : MoveMaterial
     [SerializeField] protected float _moveSpeed;
     protected Vector3 _target; 
     protected bool _hasMoved = false;
+    [SerializeField] protected float distance;
 
     private void Update()
     {
@@ -22,7 +23,7 @@ public class GroundMovement : MoveMaterial
         if (!_hasMoved) 
         {
             _target = transform.position; 
-            _target.x -= 2f;
+            _target.x -= distance;
             _hasMoved = true;  
         }
     }

@@ -9,8 +9,6 @@ TagManager:
   - Balloon
   - Spike
   - Audio
-  - Balloon2
-  - Balloon3
   layers:
   - Default
   - TransparentFX
